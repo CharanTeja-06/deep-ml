@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 5 problems · 0 labs · 0 math
+**6** solved · 6 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-10-06 | [solution](problems/0148-adamax-optimizer) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-10-04 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-10-04 | [solution](problems/0147-gelu-activation-function) |
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-10-05 | [solution](problems/0281-implement-polynomial-kernel-function) |
