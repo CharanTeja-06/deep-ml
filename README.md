@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-10-08 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-10-04 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-10-04 | [solution](problems/0147-gelu-activation-function) |
+| [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-10-09 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-10-05 | [solution](problems/0281-implement-polynomial-kernel-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-02 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-03 | [solution](problems/0146-momentum-optimizer) |
