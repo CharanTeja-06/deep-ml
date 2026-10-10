@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-10-06 | [solution](problems/0148-adamax-optimizer) |
+| [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-10-10 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-10-08 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-10-04 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-10-04 | [solution](problems/0147-gelu-activation-function) |
