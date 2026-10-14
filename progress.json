@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:38:11.999Z",
+  "generated_at": "2026-10-14T06:11:26.754Z",
   "items": {
     "problem:56": {
       "kind": "problem",
@@ -167,6 +167,19 @@
       "path": "problems/0141-shift-and-scale-array-to-target-range",
       "first_solved_at": "2026-10-13T16:38:17.952Z",
       "last_pushed_at": "2026-10-13T16:38:17.952Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-10-14T06:11:33.671Z",
+      "last_pushed_at": "2026-10-14T06:11:33.671Z",
       "language": "python",
       "lines": 19
     }
